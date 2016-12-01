@@ -1,0 +1,20 @@
+Abir VStudio como administrador
+ejecutar
+abrir http://localhost/TODO/api/formulario/preguntas
+
+
+Path: api/preguntas
+Método: GET
+Parámetros:
+	Token
+Respuesta:
+	List { PreguntaDTO
+{ PreguntaId
+  Pregunta
+  Tipo
+  List { PosiblesRespuestasDTO
+	{ PosibleRespuestaId
+  PosibleRespuestaNombre
+}
+}
+}

@@ -1,0 +1,85 @@
+[
+   {
+      "PreguntaId":0,
+      "FormularioId":0,
+      "TipoId":0,
+      "Texto":"Ingrese la calle e intersecciones",
+      "PosiblesRespuestas":[
+
+      ]
+   },
+   {
+      "PreguntaId":1,
+      "FormularioId":0,
+      "TipoId":1,
+      "Texto":"Imperfecciones visibles",
+      "PosiblesRespuestas":[
+         {
+            "PosibleRespuestaId":0,
+            "PreguntaId":1,
+            "Texto":"Baches"
+         },
+         {
+            "PosibleRespuestaId":1,
+            "PreguntaId":1,
+            "Texto":"Rotura de cordon"
+         },
+         {
+            "PosibleRespuestaId":2,
+            "PreguntaId":1,
+            "Texto":"Ramas"
+         },
+         {
+            "PosibleRespuestaId":3,
+            "PreguntaId":1,
+            "Texto":"Cables bajos"
+         }
+      ]
+   },
+   {
+      "PreguntaId":2,
+      "FormularioId":0,
+      "TipoId":2,
+      "Texto":"Cantidad de baches profundos",
+      "PosiblesRespuestas":[
+         {
+            "PosibleRespuestaId":4,
+            "PreguntaId":2,
+            "Texto":"1"
+         },
+         {
+            "PosibleRespuestaId":5,
+            "PreguntaId":2,
+            "Texto":"2"
+         },
+         {
+            "PosibleRespuestaId":6,
+            "PreguntaId":2,
+            "Texto":"3"
+         },
+         {
+            "PosibleRespuestaId":7,
+            "PreguntaId":2,
+            "Texto":"4"
+         }
+      ]
+   },
+   {
+      "PreguntaId":3,
+      "FormularioId":0,
+      "TipoId":3,
+      "Texto":"¿Se observan cables colgando?",
+      "PosiblesRespuestas":[
+         {
+            "PosibleRespuestaId":8,
+            "PreguntaId":3,
+            "Texto":"Si"
+         },
+         {
+            "PosibleRespuestaId":9,
+            "PreguntaId":3,
+            "Texto":"No"
+         }
+      ]
+   }
+]
